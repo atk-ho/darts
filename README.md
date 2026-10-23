@@ -1,2 +1,0 @@
-# darts
-darts scoring assistant
